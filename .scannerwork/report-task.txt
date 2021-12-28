@@ -1,6 +1,0 @@
-projectKey=Nitin_test:master
-serverUrl=https://sonartest.cybage.com
-serverVersion=8.9.3.48735
-dashboardUrl=https://sonartest.cybage.com/dashboard?id=Nitin_test%3Amaster
-ceTaskId=AX4BOhEmwtPGBWWmfZEU
-ceTaskUrl=https://sonartest.cybage.com/api/ce/task?id=AX4BOhEmwtPGBWWmfZEU
