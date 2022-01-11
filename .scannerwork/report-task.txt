@@ -1,0 +1,6 @@
+projectKey=Nitin_test:master
+serverUrl=http://localhost:9000
+serverVersion=8.9.6.50800
+dashboardUrl=http://localhost:9000/dashboard?id=Nitin_test%3Amaster
+ceTaskId=AX5J0QzEVp5gutu4Qg5A
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX5J0QzEVp5gutu4Qg5A
