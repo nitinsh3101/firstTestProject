@@ -1,0 +1,6 @@
+projectKey=Nitin_test1:master
+serverUrl=http://172.27.59.105:9000
+serverVersion=8.9.7.52159
+dashboardUrl=http://172.27.59.105:9000/dashboard?id=Nitin_test1%3Amaster
+ceTaskId=AX9EmjDq67L2HyDjZ-Mc
+ceTaskUrl=http://172.27.59.105:9000/api/ce/task?id=AX9EmjDq67L2HyDjZ-Mc
